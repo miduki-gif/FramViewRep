@@ -153,19 +153,6 @@ function App() {
         </Grid>
       </CardContent>
     </Card> */}
-
-
-     {/* 
-     <h1>検討漏れ項目</h1>
-      <textarea id='input_text10'>
-        ステークホルダ不足の可能性
-        (店舗関係者/法務部門)
-        この店舗は店舗おぺーレーションに影響しませんか
-      </textarea>
-       <textarea id='input_text11'>
-        ステークホルダ不足の可能性
-        (店舗関係者/法務部門)
-        この店舗は店舗おぺーレーションに影響しませんか</textarea> */}
         <footer>
           <div style={{backgroundColor:"#36be6b", height: "15vh"}}>
             <h1 style={{fontWeight:'bold', color:"white", paddingLeft:"150px", paddingTop:"25px"}}>FramView</h1>
